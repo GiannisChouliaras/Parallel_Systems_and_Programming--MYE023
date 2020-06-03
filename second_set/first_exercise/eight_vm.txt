@@ -1,0 +1,8 @@
+localhost slots=4
+opti3060ws01 slots=4
+opti3060ws02 slots=4
+opti3060ws03 slots=4
+opti3060ws04 slots=4
+opti3060ws06 slots=4
+opti3060ws08 slots=4
+opti3060ws09 slots=4

@@ -1,0 +1,2 @@
+localhost slots=4
+opti3060ws06 slots=4
